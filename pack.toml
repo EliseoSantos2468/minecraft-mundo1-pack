@@ -1,0 +1,13 @@
+name = "Mundo 1 - Vanilla+"
+author = "ManoboCheyon"
+version = "1.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8847081109cd66b3b4f0c3cf49ecb7758674cac37b74105bd0986511a6309ad7"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.251"

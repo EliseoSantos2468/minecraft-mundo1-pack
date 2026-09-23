@@ -1,0 +1,13 @@
+name = "DiscCord"
+filename = "DiscCord-1.21.1-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3HrCAKw5/versions/2CbSKBSC/DiscCord-1.21.1-1.2.8.jar"
+hash-format = "sha512"
+hash = "843acfa8ec0d8cc46f92894ff3e290b496e50c8bfc8fec7f7c3a902ddc13264ab5c72dc219e7fd1a282b55917448387283a158502ae743765087af7ec1b13cbb"
+
+[update]
+[update.modrinth]
+mod-id = "3HrCAKw5"
+version = "2CbSKBSC"

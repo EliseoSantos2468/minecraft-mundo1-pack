@@ -6,6 +6,11 @@ hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "aa3a2b60567657cf093c5ec9d384df99c8ba94f7907305c18d8f50c784957a90"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
 metafile = true
@@ -17,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
+hash = "9645a2d42361e38b0747c43f5e82a7f74cd4f06940cad02d6591e7c81835f733"
 metafile = true
 
 [[files]]
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
@@ -71,6 +81,16 @@ hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "03a2f273597c1d2bef87eaa60af9287d7d54ec68cc0a0d4b5b79e1497b16ad3e"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "e0ad7cb6cf33d7958b7c9b7af321807190adf45ada89d65892fe2d437fe3024d"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
@@ -83,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite-unofficial-port.pw.toml"
+hash = "742a8e5e016d9f93549ce6b260d56ec30ef2b1270b35542530a3254e8e8d5f6e"
 metafile = true
 
 [[files]]
@@ -127,12 +152,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "1307631109d2e715e36a93469bd9f7fafaf6c0f408016cd96efc25bac495acb8"
+hash = "904d4d9bdabf6a6cbedab254debd43ccecc2986304fddfc26ff9031752ce1a39"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "cfe4d6a3acdd8af529af7da1c844517925a68c8e23929b4345e14d73935df909"
+hash = "58333a1b7c35bd5940e63b498cf44da16b1f2464c73d72203d1fed84ccfd352a"
 metafile = true
 
 [[files]]
@@ -147,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
-hash = "86ecbe63491bca941fa2b024ac222cd2c48bd4ad690b9fcf289733a0133392f9"
+hash = "6bbc0d4296bfcb2d834899f383ae6dc80d96920492d8290d55f204a527643ad8"
 metafile = true
 
 [[files]]
@@ -167,17 +192,22 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "0294264654da6777cfbbbd24ffa6dd1d082768fa7ae28b36b76f78261f53fce9"
+hash = "c0611d8448bc043f372a008a435e14aa238ba8fca52fd1d79634424576ea9e12"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "8691a6080607f512d7adbbc1c17911ba83db273a5b5f113711fd8408b8d6a9df"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
+hash = "ef65836e005bd42a0f40df30a94eba1ad7ee5ed3194b11eafbeadc64edb44252"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dda27add4d2cfc241d52a6825e016712d704c0b9925ab2ccbf779e8493f752ed"
+hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
 metafile = true
 
 [[files]]
@@ -191,6 +221,11 @@ hash = "e672245ac368cb42b521a0be668fed61a5b5129d25eec7b8db7722e8f49e2292"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "cf98a93ea429786de97d9d7b70c72468909e0b9d1799def65b7c29c419c8d362"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
@@ -201,8 +236,13 @@ hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "391e5d415c0754ad210b8efa54fc9ded4f99e6ab8562d6faf960f3b65d84a66a"
+hash = "2e0b31d4a3d4298045b368558ce7fe191a13bccb02a4524ca748598a9dcf4ca5"
 metafile = true
 
 [[files]]
@@ -213,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "ac9db8b319aa7a53d06c5209998dcf8a2d9a6bd17fbd14c3f6dd859727d434a7"
 metafile = true
 
 [[files]]
@@ -242,17 +287,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "d089be7d1b39541c418ea6a6a4d3797eb5afcc68ad511dbd606de66d5397d59d"
+hash = "720eaefb71f271edd3a0a2b6facc125ed76726f094b94171af89256052979cd9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2f0c858e1e303aba06718a27c1628134418d53825bd46e3c44cabe1b442636c7"
+hash = "9c763ff1baf7762b647941a6525679a323ac82a1d3b219adc052c9b25f9aa428"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "2d45e747634f18813476b01a13507fa99e01e330334f11c3ed8b6a074faf3b5f"
+hash = "a9f2fc2f34665bb8930f67f98456f5836cb7ee38a4d5de9d001accb1764c2b6d"
 metafile = true
 
 [[files]]
@@ -262,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "25fdaaf01546f4083aa00f85b6c1c4b67434f6d068d3e1725d4437576ca34a7a"
+hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
 metafile = true
 
 [[files]]
@@ -277,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "f7ebc4c6a3887e13f28cd61e46c68289c4397f81d62b96377e32f7123d03bfad"
+hash = "f59458b90f50d00d42d73f726e310322c9922dd75f935747564047bfed03143c"
 metafile = true
 
 [[files]]

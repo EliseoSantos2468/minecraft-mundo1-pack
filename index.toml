@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture.pw.toml"
-hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
+hash = "6796a0cc60150693f70ffb1e27ea5e33115b369872c39dad6178cd3a79f99b29"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "9645a2d42361e38b0747c43f5e82a7f74cd4f06940cad02d6591e7c81835f733"
+hash = "d1f83d1c4a1f9cb2389b298765c7ace5edf18bc6918f738a515a22d633088fe9"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
+hash = "fc8954e0d3fa66b917d2c84ee04d07b073a9eb6f719d09e1ff85527c1d61a10e"
 metafile = true
 
 [[files]]
@@ -81,6 +81,11 @@ hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "d59b35ab8c8501db71b5c394fbfa9a76d9652171226018af255c886e64e2747f"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "03a2f273597c1d2bef87eaa60af9287d7d54ec68cc0a0d4b5b79e1497b16ad3e"
 metafile = true
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
+hash = "f2849c357f9c82d017ff71c6d5e91ac8e51d6b0f2de9e7ae8d95bfb81759cd63"
 metafile = true
 
 [[files]]
@@ -172,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
-hash = "6bbc0d4296bfcb2d834899f383ae6dc80d96920492d8290d55f204a527643ad8"
+hash = "2ba116824f0ea4a1b961d4d8b2af72483938ccc9da3428126b907c5d524e131c"
 metafile = true
 
 [[files]]
@@ -182,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/lexiconfig.pw.toml"
-hash = "9d979373cbe241f781d50fcf9e41bb84576760bbe050d9d8a89f451e0ff7a615"
+hash = "1bdd094dd87876c1dddad59402c13294a3b9efd2362773dcec0b012682378cd9"
 metafile = true
 
 [[files]]
@@ -197,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "8691a6080607f512d7adbbc1c17911ba83db273a5b5f113711fd8408b8d6a9df"
+hash = "e3ad7e057b7489bd450dda5ab479b49a5c6915e03f7ea0481d8b2f1808db96f9"
 metafile = true
 
 [[files]]
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
+hash = "e3003f83463910a682f3ea1c419f850fed7bc2c6ff4831144db11228b98e2fb4"
 metafile = true
 
 [[files]]
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "2e0b31d4a3d4298045b368558ce7fe191a13bccb02a4524ca748598a9dcf4ca5"
+hash = "d465abcc806c0d4fdeefb6a5e774cca4fff0ffd27d7c75954ab4688f4c9eaf05"
 metafile = true
 
 [[files]]
@@ -267,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-radio.pw.toml"
-hash = "5cac8f28b628730c4281d5a989b17314186b9099bc96e7b1637d05970db6e7ef"
+hash = "70f1224ac5fa901ea0d6466d096e80b310c3d1915bb4983e37189e89836de321"
 metafile = true
 
 [[files]]
@@ -287,17 +292,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "720eaefb71f271edd3a0a2b6facc125ed76726f094b94171af89256052979cd9"
+hash = "09ffd118babd4e9114f0c4bf9b0a1478f84a2470ebffec0104715c8bd66c9180"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9c763ff1baf7762b647941a6525679a323ac82a1d3b219adc052c9b25f9aa428"
+hash = "899a6b03dc738f5638a4ad88015c6737bfa9abbe3d30d89e84cbdd5aa8ab40eb"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "a9f2fc2f34665bb8930f67f98456f5836cb7ee38a4d5de9d001accb1764c2b6d"
+hash = "571bfc56ab43f32cb09fab3f9a04c0363dc82a5f9b9ca2785b15708e453e3be0"
 metafile = true
 
 [[files]]
@@ -322,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "f59458b90f50d00d42d73f726e310322c9922dd75f935747564047bfed03143c"
+hash = "8570c3bf9c3811db6a0bf36218270df792dc9de8231103100e1f3e2f1ac41e01"
 metafile = true
 
 [[files]]

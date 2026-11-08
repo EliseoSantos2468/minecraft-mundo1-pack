@@ -374,3 +374,7 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
 metafile = true
+
+[[files]]
+file = "resourcepacks/hexerei-es.zip"
+hash = "30ca90de5f264f35a782324295768c777e53978560fbe9dfcb94e54a02c13cdb"

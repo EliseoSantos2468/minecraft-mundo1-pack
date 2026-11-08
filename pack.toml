@@ -1,12 +1,12 @@
 name = "Mundo 1 - Vanilla+"
 author = "ManoboCheyon"
-version = "1.11.0"
+version = "1.12.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "77c595db2f9b366bb23f055c2aeeecdfa338d96b502e54ab94d8fa1946e8db51"
+hash = "198d093e3a1ffed264a32fb65e48058ca392048e2080dd5b2893f6074559b62f"
 
 [versions]
 minecraft = "1.21.1"
